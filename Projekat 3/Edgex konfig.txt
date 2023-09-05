@@ -1,0 +1,103 @@
+1. Na Data servisu, potrebno je izvrsiti HTTP POST metodu kako bi se kreirao ValueDescriptor:
+adresa: http://localhost:48080/api/v1/valuedescriptor
+body1: 
+{
+    "name": "ID",
+    "description": "data from .csv file",
+    "min": "",
+    "max": "",
+    "type": "String",
+    "uomLabel": "ID",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "ID"
+    ]
+}
+
+body2: 
+{
+    "name": "timestamp",
+    "description": "data from .csv file",
+    "min": "",
+    "max": "",
+    "type": "String",
+    "uomLabel": "timestamp",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "timestamp"
+    ]
+}
+
+body3: 
+{
+    "name": "temperature",
+    "description": "data from .csv file",
+    "min": "",
+    "max": "",
+    "type": "Int64",
+    "uomLabel": "temperature",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "temperature"
+    ]
+}
+
+body4: 
+{
+    "name": "humidity",
+    "description": "data from .csv file",
+    "min": "",
+    "max": "",
+    "type": "Int64",
+    "uomLabel": "humidity",
+    "defaultValue": "null",
+    "labels": [
+        "environment",
+        "humidity"
+    ]
+}
+
+2. Kreirati Device Profile pozivanjem HTTP POST metode na adresu http://localhost:48081/api/v1/deviceprofile/uploadfile
+i selktovanjem fajla docker-profile.yaml
+
+3. Treci korak je poteban da bi se kreirao device i to se radi slanjem POST zahteva na adresu http://localhost:48081/api/v1/device
+Unutar body dela treba da se stavi sledece:
+{
+    "name": "SensorValueCluster2",
+    "description": "Raspberry Pi sensor cluster",
+    "adminState": "unlocked",
+    "operatingState": "enabled",
+    "protocols": {
+        "HTTP": {
+            "host": "localhost",
+            "unitID": "1"
+        }
+    },
+    "labels": [
+        "Temperature sensor",
+        "DHT11"
+    ],
+    "location": "Nis",
+    "service": {
+        "name": "edgex-device-rest"
+    },
+    "profile": {
+        "name": "SensorCluster2"
+    }
+}
+
+4. Nakon sto se kreira uredjaj i napisu svi mikroservisi potrebno je da se podesi InfluxDB baza podataka.
+
+5. Kada vidimo da podaci postoje u bazi podataka treba da ih vizuelizujemo uz pomoc Grafan-e.
+Za pomoc oko povezivanja InfluxDB-a i Grafan-e pogledati sledeci klip: https://www.youtube.com/watch?v=Jszd7zrl-_U
+
+6. Potrebno je klonirati repozitorijum https://github.com/jonas-werner/colorChanger.git u root folder projekta.
+Nakon toga je potrebno pozicinoirati se u colorChanger folder i izbildovati docker kontejner komandom "docker build -t colorchanger ."
+Zatim je potrebno pokrenuti ga komandom "docker run -d -p 5000:5000 --name colorchanger colorchanger:latest".
+Nakon toga je moguce pozivanje REST Api-ja na portu 5000 pomocu Postman-a. 
+Potrebno je da EdgeX zna za ovu test aplikaciju kako bi mogao da komunicira sa njom.
+Kod pokretanja python skripte, potrebno je staviti za "ip" parametar "localhost", a za devip parametar lokalnu IP adresu masine na kojoj je pokrenut colorChanger.
+

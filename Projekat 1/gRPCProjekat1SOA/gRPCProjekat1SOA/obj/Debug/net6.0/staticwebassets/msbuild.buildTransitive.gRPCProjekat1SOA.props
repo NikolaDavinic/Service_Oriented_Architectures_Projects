@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gRPCProjekat1SOA.props" />
+</Project>

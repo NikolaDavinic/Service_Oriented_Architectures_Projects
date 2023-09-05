@@ -1,0 +1,216 @@
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.exe
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.deps.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.runtimeconfig.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.pdb
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\BananaCakePop.Middleware.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\GreenDonut.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Authorization.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Data.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Execution.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Fetching.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Utilities.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Validation.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.AssemblyInfo.cs
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.SOAProjekat1GraphQL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.build.SOAProjekat1GraphQL.props
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SOAProjekat1GraphQL.props
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SOAProjekat1GraphQL.props
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\scopedcss\bundle\SOAProjekat1GraphQL.styles.css
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.CopyComplete
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\refint\SOAProjekat1GraphQL.dll
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.pdb
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.genruntimeconfig.cache
+C:\Users\nikol\source\repos\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\ref\SOAProjekat1GraphQL.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\appsettings.Development.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\appsettings.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.exe
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.deps.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.runtimeconfig.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\SOAProjekat1GraphQL.pdb
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\BananaCakePop.Middleware.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\GreenDonut.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Authorization.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Data.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Data.EntityFramework.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Execution.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Fetching.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Utilities.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Utilities.Introspection.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\HotChocolate.Validation.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Humanizer.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\MySql.Data.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.CodeDom.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.IO.Hashing.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Text.Json.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\ZstdSharp.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.AssemblyReference.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.AssemblyInfoInputs.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.AssemblyInfo.cs
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.CoreCompileInputs.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.MvcApplicationPartsAssemblyInfo.cs
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.MvcApplicationPartsAssemblyInfo.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.SOAProjekat1GraphQL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.build.SOAProjekat1GraphQL.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SOAProjekat1GraphQL.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SOAProjekat1GraphQL.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.build.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\staticwebassets.development.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\scopedcss\bundle\SOAProjekat1GraphQL.styles.css
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.csproj.CopyComplete
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\refint\SOAProjekat1GraphQL.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.pdb
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\SOAProjekat1GraphQL.genruntimeconfig.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\SOAProjekat1GraphQL\SOAProjekat1GraphQL\obj\Debug\net6.0\ref\SOAProjekat1GraphQL.dll

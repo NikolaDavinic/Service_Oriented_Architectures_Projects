@@ -1,0 +1,87 @@
+  version: '3.4'
+
+  services:
+
+    emqx:
+      image: emqx/emqx:latest
+      container_name: emqx_c
+      environment:
+      - "EMQX_NODE_NAME=emqx@node1.emqx.io"
+      - "EMQX_CLUSTER__DISCOVERY_STRATEGY=static"
+      - "EMQX_CLUSTER__STATIC__SEEDS=[emqx@node1.emqx.io,emqx@node2.emqx.io]"
+      healthcheck:
+        test: ["CMD", "/opt/emqx/bin/emqx_ctl", "status"]
+        interval: 5s
+        timeout: 25s
+        retries: 5
+      networks:
+        emqx-bridge:
+          aliases:
+            - node1.emqx.io
+      ports:
+        - 1883:1883
+        - 8083:8083
+        - 8084:8084
+        - 8883:8883
+        - 18083:18083 
+    
+    influxdb:
+      image: influxdb:latest
+      container_name: influxdb_c
+      networks:
+        - default
+      ports:
+        - '8086:8086'
+      volumes:
+        - ./influxdb-storage:/var/lib/influxdb
+
+    manager:
+       image: emqx/ekuiper-manager:1.8.0
+       container_name: ekuiper-manager_c
+       ports:
+       - "9082:9082"
+       restart: unless-stopped
+       environment: 
+         DEFAULT_EKUIPER_ENDPOINT: "http://ekuiper:9081"
+    ekuiper:
+       image: lfedge/ekuiper:1.8.0
+       ports:
+         - "9081:9081"
+         - "127.0.0.1:20498:20498"
+       container_name: ekuiper
+       hostname: ekuiper
+       restart: unless-stopped
+       user: root
+       volumes:
+         - /tmp/data:/kuiper/data
+         - /tmp/log:/kuiper/log
+       environment:
+         MQTT_SOURCE__DEFAULT__SERVER: "tcp://10.14.42.11:1883"
+         KUIPER__BASIC__CONSOLELOG: "true"
+         KUIPER__BASIC__IGNORECASE: "false"
+       depends_on:
+        emqx:
+          condition: service_healthy
+
+    analytics:
+      container_name: analytics_c
+      build:
+        context: .
+        dockerfile: ./AnalyticsService/AnalyticsService/Dockerfile
+      depends_on:
+        emqx:
+          condition: service_healthy
+
+    sensor_dummy:
+      container_name: sensor_dummy_c
+      build:
+        context: .
+        dockerfile: ./sensor-dummy-service/Dockerfile
+      depends_on:
+        emqx:
+          condition: service_healthy
+
+  networks:
+    emqx-bridge:
+      driver: bridge
+      

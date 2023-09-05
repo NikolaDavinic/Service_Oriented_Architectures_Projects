@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "NetworkSpace";
+
+package log;
+
+service Log{
+	rpc GetAllLogs (EmptyMessage) returns (stream LogValues);
+	rpc GetLogById (LogId) returns (LogValues);
+	rpc AddLog (LogValues) returns (LogValues);
+	rpc UpdateLog (LogValues) returns (LogValues);
+	rpc DeleteLog(LogId) returns (EmptyMessage);
+}
+
+message EmptyMessage {}
+
+message LogId{
+	int32 Framenumber = 1;
+}
+
+message LogValues {
+	int32 frameNumber = 1;
+	double frameTime = 2;
+	int32 frameLen = 3;
+	int32 ipSrc = 4;
+	int32 ipDst = 5;
+	int32 ipLen = 6;
+	int32 tcpLen = 7;
+	int32 value = 8;
+	int32 normality = 9;
+}
+

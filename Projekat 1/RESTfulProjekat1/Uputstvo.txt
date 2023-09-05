@@ -1,0 +1,2 @@
+Ovo je RESTful(Representational State Transfer) servis koji je razvijen uz pomoc Node.js-a. 
+

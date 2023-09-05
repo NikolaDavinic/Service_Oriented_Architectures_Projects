@@ -1,0 +1,206 @@
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\appsettings.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.exe
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.deps.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.runtimeconfig.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.pdb
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.AssemblyInfo.cs
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.gRPCProjekat1SOA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCProjekat1SOA.props
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCProjekat1SOA.props
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCProjekat1SOA.props
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\scopedcss\bundle\gRPCProjekat1SOA.styles.css
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.CopyComplete
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\refint\gRPCProjekat1SOA.dll
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.pdb
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.genruntimeconfig.cache
+C:\Users\nikol\source\repos\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\ref\gRPCProjekat1SOA.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\appsettings.Development.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\appsettings.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.exe
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.deps.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.runtimeconfig.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\gRPCProjekat1SOA.pdb
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Azure.Core.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Azure.Identity.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Core.Api.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.Client.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Grpc.Net.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Humanizer.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\MySql.Data.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.CodeDom.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Text.Json.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\ZstdSharp.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.AssemblyReference.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.AssemblyInfoInputs.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.AssemblyInfo.cs
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.CoreCompileInputs.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.MvcApplicationPartsAssemblyInfo.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.gRPCProjekat1SOA.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCProjekat1SOA.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCProjekat1SOA.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCProjekat1SOA.props
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.build.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\staticwebassets.development.json
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\scopedcss\bundle\gRPCProjekat1SOA.styles.css
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.csproj.CopyComplete
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\refint\gRPCProjekat1SOA.dll
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.pdb
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\gRPCProjekat1SOA.genruntimeconfig.cache
+E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Projekat 1\gRPCProjekat1SOA\gRPCProjekat1SOA\obj\Debug\net6.0\ref\gRPCProjekat1SOA.dll

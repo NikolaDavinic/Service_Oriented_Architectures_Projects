@@ -1,0 +1,2 @@
+obj\Debug\net6.0\Protos/Log.cs \
+obj\Debug\net6.0\Protos/LogGrpc.cs: Protos/log.proto
