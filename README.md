@@ -1,4 +1,4 @@
-# Service Oriented Architecture
+# Service-Oriented Architecture
 ## Contributors
 
 * Nikola Davinić
