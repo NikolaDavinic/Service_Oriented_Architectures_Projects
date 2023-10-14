@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj": {}
+    "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj": {}
   },
   "projects": {
-    "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj": {
+    "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
+        "projectUniqueName": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
         "projectName": "SOAProjekat1GraphQL",
-        "projectPath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
+        "projectPath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
         "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-        "outputPath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\obj\\",
+        "outputPath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

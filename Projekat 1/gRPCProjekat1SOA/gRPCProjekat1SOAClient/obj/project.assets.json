@@ -630,11 +630,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
+      "projectUniqueName": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
       "projectName": "gRPCProjekat1SOAClient",
-      "projectPath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
+      "projectPath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\obj\\",
+      "outputPath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -694,7 +694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

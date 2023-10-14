@@ -30,14 +30,14 @@ mqttClient.on("message", (topic, payload) => {
     const temperature = data.readings[0].value
     console.log(`Temeperature is ${temperature}`)
 
-    if(temperature<30 && currentState === "OFF"){
+    if(temperature<=36 && currentState === "OFF"){
         currentState = "ON"
         console.log("CURRENT STATE CHANGED TO ON BECAUSE IS TEMPERATURE TOO LOW")
         sendAlert()
         return;
     }
 
-    if(temperature > 35 ** currentState === "ON"){
+    if(temperature > 36 && currentState === "ON"){
         currentState = "OFF"
         console.log("CURRENT STATE CHANGED TO OFF BECAUSE IS TEMPERATURE TOO HIGH")
         sendAlert()
@@ -46,14 +46,15 @@ mqttClient.on("message", (topic, payload) => {
 
 async function sendAlert()
 {
-    const url = "http://command:48082/api/v1/device/b8bfda6d-cef0-4169-b4f5-8e5cf2119be3/command/75cb95c7-8b1a-4d32-ad8a-f224312b3c75"
+    const url = "http://localhost:48082/api/v1/device/ea181227-9edf-4abf-ae6f-9e88c684706d/command/30dd13f0-ad9f-4964-93c7-72ce53dcdc65"
+    const url2 = "http://localhost:5000/api/v1/device/ea181227-9edf-4abf-ae6f-9e88c684706d/changeColor";
     const body = {
         color: currentState === "OFF" ? "red" : "green"
     }
 
     try {
-        const response = await axios.put(url, {
-            color: currentState === "OFF" ? "red" : "green"
+        const response = await axios.put(url2, {
+            "color": currentState === "OFF" ? "red" : "green"
         })
         console.log(response)
     }

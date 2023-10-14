@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0FZbv9QXTQyfb1Ru6z/1Y41xIx++10IbLuwPbJOqNoOgKm1kFJ99rm3UPkPWaS3j1reH+2g4p4lRz6kq8xyfg==",
+  "dgSpecHash": "fA8a6/ytPtKx0o2aWb17TFu/8XQYoArQ7iuEn0M4a8tvixQ2p41GgM6ER9I9mK/2LSIULnNnBkroH1Ouat1gEw==",
   "success": true,
-  "projectFilePath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
+  "projectFilePath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOAClient\\gRPCProjekat1SOAClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikol\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\grpc.core.api\\2.49.0\\grpc.core.api.2.49.0.nupkg.sha512",

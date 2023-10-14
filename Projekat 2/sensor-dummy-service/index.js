@@ -9,7 +9,7 @@ const qos = 2
 let i = 0
 data = []
 
-const address = 'mqtt://10.14.42.11:1883'
+const address = 'mqtt://10.66.100.154:1883'
 const client = mqtt.connect(address, {
     clientId,
     username,

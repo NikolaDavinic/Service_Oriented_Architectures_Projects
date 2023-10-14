@@ -38,7 +38,7 @@ def createAddressables():
     url = 'http://%s:48081/api/v1/addressable' % edgex_ip
 
     payload = {
-        "name":"TestApp6",
+        "name":"TestApp",
         "protocol":"HTTP",
         "address":device_ip,
         "port":5000,
@@ -54,7 +54,7 @@ def createValueDescriptors():
     url = 'http://%s:48080/api/v1/valuedescriptor' % edgex_ip
 
     payload =   {
-                    "name":"color6",
+                    "name":"color",
                     "description":"Color to be shown in test app web UI",
                     "type":"Str",
                     "uomLabel":"color",
@@ -91,13 +91,13 @@ def createDeviceService():
     url = 'http://%s:48081/api/v1/deviceservice' % edgex_ip
 
     payload = {
-        "name":"dummy-rest-device-service6",
+        "name":"dummy-rest-device-service",
         "description":"Gateway for emergency venting system",
         "labels":["color","testapp"],
         "adminState":"unlocked",
         "operatingState":"enabled",
         "addressable": {
-            "name":"TestApp6"
+            "name":"TestApp"
         }
     }
     headers = {'content-type': 'application/json'}
@@ -114,7 +114,7 @@ def addNewDevice():
     url = 'http://%s:48081/api/v1/device' % edgex_ip
 
     payload = {
-        "name": "TestApp6",
+        "name": "TestApp",
         "description": "Test application",
         "adminState": "unlocked",
         "operatingState": "enabled",
@@ -126,7 +126,7 @@ def addNewDevice():
             }
         },
         "addressable": {
-            "name": "TestApp6"
+            "name": "TestApp"
         },
         "labels": [
             "color",
@@ -137,7 +137,7 @@ def addNewDevice():
             "name": "dummy-rest-device-service6" 
         },
         "profile": {
-            "name": "colorChanger6"
+            "name": "colorChanger"
         }
     }
     headers = {'content-type': 'application/json'}

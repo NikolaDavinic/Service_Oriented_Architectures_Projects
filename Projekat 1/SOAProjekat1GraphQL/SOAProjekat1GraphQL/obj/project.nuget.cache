@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5R+YlCVi1j8+KEb37KSx0Hv3b0mOf+yH1Tf92sp3ll7PfWUIGw5mI2o7+dd2c1YqHsOZ4aulXd5Pzy+2I1uSA==",
+  "dgSpecHash": "C6BJFmPuLra8X7hd65M0sctPSiQi7yu8s7SeDDRPWMNVUpEH2F4hmmVRCQkq+nQexzkesYSM7UGiavK13/f/Gw==",
   "success": true,
-  "projectFilePath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
+  "projectFilePath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL\\SOAProjekat1GraphQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikol\\.nuget\\packages\\bananacakepop.middleware\\7.0.3\\bananacakepop.middleware.7.0.3.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

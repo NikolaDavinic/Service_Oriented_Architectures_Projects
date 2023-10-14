@@ -8,7 +8,7 @@ i = 0
 
 if __name__ == "__main__":
 
-    with open("E:\Fakultet\8 semestar\Servisno-orijentisana arhitektura\Proba edgex\data-reader-service\iot3data.csv", 'r') as file:
+    with open("D:\Fakultet\Soa\Service_Oriented_Architectures_Projects\Projekat 3\data-reader-service\iot3data.csv", 'r') as file:
         csvreader = csv.reader(file) 
         for row in csvreader:
             

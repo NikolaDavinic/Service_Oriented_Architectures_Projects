@@ -9,9 +9,9 @@ using System.Text;
 
 var sensorDummyTopic = "sensor_dummy/values";
 var eKuiperTopic = "eKuiper/anomalies"; // broker.emqx.io
-string address = "10.14.42.11";
+string address = "10.66.100.154";
 var port = 1883;
-var client = InfluxDBClientFactory.Create(url: "http://10.14.42.11:8086", "admin", "adminadmin".ToCharArray());
+var client = InfluxDBClientFactory.Create(url: "http://10.66.100.154:8086", "admin", "adminadmin".ToCharArray());
 int i = 1;
 
 var mqttService = MqttService.Instance();

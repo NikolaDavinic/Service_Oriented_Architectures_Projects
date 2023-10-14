@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "okmq8LDHPDmDqfyyz1bptK5Ul03zbDR9DGotoZ5IoVh8+cOFuYezOT7YWGl6NRBR4H86gs+/cbwclhBlCT7q+A==",
+  "dgSpecHash": "QAkFlwtBcLyCwTW3/7qYRA5C22KCtcUYI4dPXTwO3DEAwTRjj9bH9VXAsc50E5A8G0z0t+s0x3Rg5wAMEG8RDA==",
   "success": true,
-  "projectFilePath": "E:\\Fakultet\\8 semestar\\Servisno-orijentisana arhitektura\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOA\\gRPCProjekat1SOA.csproj",
+  "projectFilePath": "D:\\Fakultet\\Soa\\Service_Oriented_Architectures_Projects\\Projekat 1\\gRPCProjekat1SOA\\gRPCProjekat1SOA\\gRPCProjekat1SOA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikol\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nikol\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

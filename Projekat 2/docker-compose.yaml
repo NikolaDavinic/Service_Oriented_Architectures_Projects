@@ -56,7 +56,7 @@
          - /tmp/data:/kuiper/data
          - /tmp/log:/kuiper/log
        environment:
-         MQTT_SOURCE__DEFAULT__SERVER: "tcp://10.14.42.11:1883"
+         MQTT_SOURCE__DEFAULT__SERVER: "tcp://10.66.100.154:1883"
          KUIPER__BASIC__CONSOLELOG: "true"
          KUIPER__BASIC__IGNORECASE: "false"
        depends_on:

@@ -5,7 +5,7 @@ from flask import Flask, render_template, redirect, request, url_for, make_respo
 from flask_restful import Resource, Api, reqparse
 
 app = Flask(__name__)
-color = "green"
+color = "blue"
 
 
 @app.route('/')
